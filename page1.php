@@ -6,12 +6,7 @@
   <!-- <div class="row"> -->
     <h3>หน้าที่ 1 test การ upload ข้อมูล</h3>
     <h3> Test แก้ไข การ upload ข้อมูล</h3>
-    <h3> Test แก้ไข การ upload ข้อมูล</h3>
-    <h3> Test แก้ไข การ upload ข้อมูล</h3>
-    <h3> Test แก้ไข การ upload ข้อมูล</h3>
-    <h3> Test แก้ไข การ upload ข้อมูล</h3>
-    <h3> Test แก้ไข การ upload ข้อมูล</h3>
-    <h3> Test แก้ไข การ upload ข้อมูล</h3>
+    
     <h4>ผูใช้งาน  <?php echo $_SESSION['user'] .'  '.$_SESSION['name'] ?></h4>
 
     
